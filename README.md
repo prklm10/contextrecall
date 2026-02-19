@@ -28,7 +28,7 @@ We provide a setup script that builds the binary and configures your shell autom
 
 ```bash
 # 1. Clone the repo
-git clone [https://github.com/yourusername/contextrecall.git](https://github.com/yourusername/contextrecall.git)
+git clone [https://github.com/prklm10/contextrecall.git](https://github.com/prklm10/contextrecall.git)
 cd contextrecall
 
 # 2. Run the installer
