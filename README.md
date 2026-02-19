@@ -3,7 +3,7 @@
 **Stop scrolling through `kubectl` commands when you're working on a React app.**
 
 ContextRecall is a CLI tool written in **Rust** that gives every directory its own isolated shell history. It automatically detects which project you are in and saves your commands to a local SQLite database, keeping your global history clean and your cognitive load low.
-
+a
 ## 🚀 The Problem
 Modern developers switch contexts constantly. You might be working on a backend Go service, a frontend React app, and Terraform infrastructure all in one day. 
 
